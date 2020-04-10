@@ -112,7 +112,7 @@
       ]
     },
     {
-      "url": "https://www.pubnub.com/docs/chat/",
+      "url": "https://www.pubnub.com/docs/chat/.*",
       "selectors_key": "chat",
       "tags": [
         "chat",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "url": "https://www.pubnub.com/docs/blocks-catalog/",
+      "url": "https://www.pubnub.com/docs/blocks-catalog/.*",
       "selectors_key": "blocks",
       "tags": [
         "blocks catalog",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "url": "https://www.pubnub.com/docs/pubnub-rest-api-documentation/",
+      "url": "https://www.pubnub.com/docs/pubnub-rest-api-documentation/.*",
       "selectors_key": "rest",
       "tags": [
         "rest",
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "url": "https://www.pubnub.com/docs/console/",
+      "url": "https://www.pubnub.com/docs/console/.*",
       "selectors_key": "console",
       "tags": [
         "console",
@@ -147,14 +147,14 @@
       ]
     },
     {
-      "url": "https://www.pubnub.com/docs/platform/functions/",
+      "url": "https://www.pubnub.com/docs/platform/functions/.*",
       "selectors_key": "functions",
       "tags": [
         "functions"
       ]
     },
     {
-      "url": "https://www.pubnub.com/docs/platform/",
+      "url": "https://www.pubnub.com/docs/platform/.*",
       "selectors_key": "platform",
       "tags": [
         "platform docs",
@@ -189,7 +189,7 @@
     },
     "docs": {
       "lvl0": "h1.page-title",
-      "lvl1": "div.unify-124[data-mdesc]",
+      "lvl1": "div.field-item.even p",
       "lvl2": ".content .content h2",
       "lvl3": ".content .content h3",
       "lvl4": ".content .content h4",
